@@ -5,5 +5,5 @@ O objetivo desse teste é a estruturação e estilização de três telas, utili
 https://www.figma.com/file/tREpDzV3YE55OXThmpOjGh/Desafio?node-id=0%3A1
 
 ## Referências
-https://codex.wordpress.org/pt-br:O_Loop
-https://codex.wordpress.org/Function_Reference
+- https://codex.wordpress.org/pt-br:O_Loop
+- https://codex.wordpress.org/Function_Reference
