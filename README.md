@@ -25,7 +25,7 @@ Para a criação das páginas, você deve criá-las através do painel com os se
 Não se esqueça que o Header e o Footer são os mesmos para todas as páginas, então edite os arquivos "header.php" e "footer.php" respectivamente. 
 
 ## Conclusão
-O candidato terá 5 dias para conclusão do teste. Ao concluir, o avalidor deve ser notificado. Ele pode usar o servidor disponibilizado, ou se preferir, enviar os arquivo dos site e uma cópia do banco de dados para o e-mail matheus@driftweb.com.br. Se houver dúvidas, sinta-se a vontade para entrar em contato com o avaliador, mas lembre-se que o Google é seu melhor amigo 😁
+O candidato terá 5 dias para conclusão do teste. Ao concluir, o avalidor deve ser notificado. Ele pode usar o servidor disponibilizado, ou se preferir, enviar os arquivo dos site e uma cópia do banco de dados para o e-mail aneke@driftweb.com.br. Se houver dúvidas, sinta-se a vontade para entrar em contato com o avaliador, mas lembre-se que o Google é seu melhor amigo 😁
 
 ### Referências
 - https://codex.wordpress.org/pt-br:O_Loop
